@@ -4,6 +4,10 @@ Welcome to the sample GitHub ReadME! Use this template as an outline for your da
 
 
 # Project Background
+*ficticous data
+This is the fictious data set of customer transactions from a cafe over the year of 2023, who has asked him to anaylize their sales data to determine any insights that may help them improve their business.  
+The accompanying data is from a small family owned cafe in Dallas Texas. Open for the last 10 years they currently do not advertise and are soley reliant on their community, word of mouth, and online reviews (yelp, googlemaps etc). Currently their key data metrics are 
+
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 
 Insights and recommendations are provided on the following key areas:
